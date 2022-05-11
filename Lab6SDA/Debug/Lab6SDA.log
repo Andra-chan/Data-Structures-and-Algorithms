@@ -1,0 +1,8 @@
+﻿  App.cpp
+  IteratorMDO.cpp
+  MDO.cpp
+  TestExtins.cpp
+  TestScurt.cpp
+  Generating Code...
+C:\Users\Andra\source\repos\Lab6SDA\Lab6SDA\MDO.cpp(242): warning C4715: 'MDO::colectiaValorilor': not all control paths return a value
+  Lab6SDA.vcxproj -> C:\Users\Andra\source\repos\Lab6SDA\Debug\Lab6SDA.exe
